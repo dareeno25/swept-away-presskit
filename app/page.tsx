@@ -94,7 +94,7 @@ The world is built from soft pixel art and ambient sound, evoking feelings of vu
   },
 
   downloadPlatforms: [
-    { name: 'Steam', icon: 'steam' as const, url: 'https://store.steampowered.com/app/xxx', available: true },
+    { name: 'Steam', icon: 'steam' as const, url: 'https://sami-1q.itch.io/swept-away', available: true },
   ],
 
   aboutTeamDescription: `This project is crafted by a small, focused team driven by a passion for emotional storytelling and atmospheric world-building. Each contributor brings a unique perspective — design, art direction, sound, and testing — working together to shape a gentle yet immersive experience. The team's size allows for fast iteration, tight creative control, and a unified artistic vision.`,
