@@ -1,0 +1,15 @@
+export { default as Header } from './Header'
+export { default as Footer } from './Footer'
+
+export { default as HeroSection } from './HeroSection'
+export { default as BasicInfo } from './BasicInfo'
+export { default as GameDescription } from './GameDescription'
+export { default as DownloadSection } from './DownloadSection'
+export { default as AboutTeam } from './AboutTeam'
+export { default as TeamMembers } from './TeamMembers'
+export { default as MediaContact } from './MediaContact'
+export { default as SectionWithImages } from './SectionWithImages'
+
+export * from './ui/button'
+export * from './ui/card'
+export * from './ui/dialog'

@@ -1,0 +1,121 @@
+{
+  "nav": {
+    "home": "Home",
+    "gameOverview": "Game Overview",
+    "download": "Download",
+    "aboutTeam": "About Team",
+    "gallery": "Gallery"
+  },
+  "hero": {
+    "defaultTitle": "Swept Away",
+    "defaultSubtitle": "A vulnerable duckling must escape the city sewers and reunite with his mother",
+    "defaultCta": "Download Now"
+  },
+  "basicInfo": {
+    "title": "Basic Information",
+    "gameName": "Game Name",
+    "genre": "Genre",
+    "platforms": "Platforms",
+    "playerMode": "Player Mode",
+    "releaseDate": "Release Date",
+    "pricing": "Pricing",
+    "singlePlayer": "Single Player",
+    "multiplayer": "Multiplayer",
+    "free": "Free to Play",
+    "paid": "Paid"
+  },
+  "gameDescription": {
+    "title": "About the Game",
+    "shortDescription": "Short Description",
+    "detailedDescription": "Detailed Description",
+    "keyFeatures": "Key Features",
+    "targetAudience": "Target Audience",
+    "storyWorld": "Story & Game World"
+  },
+  "developmentTeam": {
+    "title": "Development Team",
+    "studioName": "Studio Name",
+    "keyDevelopers": "Key Developers",
+    "publisher": "Publisher"
+  },
+  "mediaAssets": {
+    "title": "Media Assets",
+    "gameLogo": "Game Logo",
+    "screenshots": "Screenshots",
+    "videos": "Videos & Trailers",
+    "artwork": "Artwork & Concept Art",
+    "downloadAll": "Download All Assets"
+  },
+  "mediaContact": {
+    "title": "Media Contact",
+    "prContact": "PR Contact",
+    "email": "Email",
+    "socialMedia": "Social Media"
+  },
+  "additionalInfo": {
+    "title": "Additional Information",
+    "notes": "Notes for Media",
+    "contentWarnings": "Content Warnings",
+    "assetUsage": "Asset Usage Guidelines"
+  },
+  "download": {
+    "title": "Get the Game",
+    "subtitle": "Available on your favorite platform",
+    "downloadNow": "Download Now",
+    "comingSoon": "Coming Soon"
+  },
+  "aboutTeam": {
+    "title": "About Our Team",
+    "subtitle": "Meet the people behind the game"
+  },
+  "gallery": {
+    "title": "Gallery",
+    "subtitle": "Screenshots and media from the game"
+  },
+  "footer": {
+    "copyright": "All rights reserved",
+    "quickLinks": "Quick Links",
+    "followUs": "Follow Us",
+    "pressKit": "Press Kit"
+  },
+  "content": {
+    "gameName": "Swept Away",
+    "genre": "2D Metroidvania, Exploration, Narrative-focused Indie Game",
+    "platforms": ["PC (Windows)"],
+    "releaseDate": "5 February 2026",
+    "priceAmount": "Free",
+    "shortDescription": "A vulnerable duckling must escape the city sewers and reunite with his mother using stealth, instinct, and courage in this atmospheric 2D pixel-art adventure.",
+    "detailedDescription": "Swept Away is a short, emotional 2D adventure game that follows a lost duckling swept into the city's underground sewers. Players must guide the duckling through dark tunnels, avoid a territorial rat, and navigate through pipes in search of the way back to its family.\n\nThe game combines soft pixel art, ambient sound design, and simple mechanics to create a deeply immersive experience. Each phase introduces new challenges — from hiding and stealth to swimming and environmental puzzles — while maintaining a quiet, reflective tone. With no dialogue and minimal UI, the story unfolds through atmosphere, animation, and visual cues.",
+    "keyFeatures": [
+      "Atmospheric pixel-art visuals",
+      "Simple movement, stealth, and swimming mechanics",
+      "Emotional storytelling through environment and animation",
+      "Minimal UI for immersive gameplay",
+      "Ambient soundtrack and sound effects",
+      "Short playtime ideal for focused, reflective experience"
+    ],
+    "targetAudience": "All ages. Players who enjoy emotional, atmospheric storytelling indie games.",
+    "storyWorld": "A duckling is separated from his mother by falling into the city's sewer system. Alone and afraid, he must navigate the dark, damp tunnels, avoid the rat who guards his territory, and follow the faint light that leads to freedom.\n\nThe world is built from soft pixel art and ambient sound, evoking feelings of vulnerability, tension, and hope.",
+    "studioName": "CuatroStudio",
+    "studioDescription": "This project is crafted by a small, focused team driven by a passion for emotional storytelling and atmospheric world-building. Each contributor brings a unique perspective — design, art direction, sound, and testing — working together to shape a gentle yet immersive experience.",
+    "teamMembers": [
+      {
+        "name": "Dareen AI-OUFI",
+        "role": "Artist and Writer"
+      },
+      {
+        "name": "Yahya Sindi",
+        "role": "game programmer and designer"
+      },
+      {
+        "name": "Sami Mohamed Alzahrani",
+        "role": "Game Designer"
+      },
+      {
+        "name": "Zeyad sabri ali",
+        "role": "Artist"
+      }
+    ],
+    "aboutTeamDescription": "This project is crafted by a small, focused team driven by a passion for emotional storytelling and atmospheric world-building. Each contributor brings a unique perspective — design, art direction, sound, and testing — working together to shape a gentle yet immersive experience. The team's size allows for fast iteration, tight creative control, and a unified artistic vision."
+  }
+}
