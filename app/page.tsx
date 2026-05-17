@@ -61,7 +61,7 @@ The world is built from soft pixel art and ambient sound, evoking feelings of vu
       role: 'game programmer',
       photo: '/images/profile-placeholder.png',
       socialLinks: [
-        { platform: 'linkedin' as const, url: 'https://www.linkedin.com/in/samah-taha-184331198/' },
+        { platform: 'linkedin' as const, url: '' },
       ],
     },
     {
