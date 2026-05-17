@@ -7,7 +7,7 @@ import TeamMembers from '@/components/TeamMembers'
 import Footer from '@/components/Footer'
 
 const teamData = {
-  studioName: 'CuatroStudio',
+  studioName: 'Glitch Studio',
   aboutDescription: `This project is crafted by a small, focused team driven by a passion for emotional storytelling and atmospheric world-building. Each contributor brings a unique perspective — design, art direction, sound, and testing — working together to shape a gentle yet immersive experience. The team's size allows for fast iteration, tight creative control, and a unified artistic vision.`,
   teamMembers: [
     {

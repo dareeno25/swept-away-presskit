@@ -9,16 +9,16 @@ const siteUrl = process.env.NEXT_PUBLIC_SITE_URL || 'https://swept-away-presskit
 export const metadata: Metadata = {
   metadataBase: new URL(siteUrl),
   title: {
-    template: '%s | Swept Away - CuatroStudio',
+    template: '%s | Swept Away - Glitch Studio',
     default: 'Swept Away | CuatroStudio Press Kit',
   },
   description: 'Swept Away is a 2D pixel-art adventure by CuatroStudio. A lost duckling must escape the city sewers and reunite with his mother.',
   keywords: ['Swept Away', 'CuatroStudio', 'press kit', 'indie game', '2D adventure', 'pixel art'],
-  authors: [{ name: 'CuatroStudio' }],
+  authors: [{ name: 'Glitch Studio' }],
   openGraph: {
     type: 'website',
-    siteName: 'Swept Away - CuatroStudio',
-    title: 'Swept Away | CuatroStudio Press Kit',
+    siteName: 'Swept Away - Glitch Studio',
+    title: 'Swept Away |Glitch Studio Press Kit',
     description: 'Swept Away is a 2D pixel-art adventure by CuatroStudio. A lost duckling must escape the city sewers and reunite with his mother.',
     images: [
       {
@@ -31,7 +31,7 @@ export const metadata: Metadata = {
   },
   twitter: {
     card: 'summary_large_image',
-    title: 'Swept Away | CuatroStudio Press Kit',
+    title: 'Swept Away | Glitch Studio Press Kit',
     description: 'Swept Away is a 2D pixel-art adventure by CuatroStudio. A lost duckling must escape the city sewers and reunite with his mother.',
     images: ['/images/og-image.png'],
   },
