@@ -35,11 +35,11 @@ const teamData = {
       ],
     },
     {
-      name: 'Layan Aljohani',
-      role: 'Audio Director, Cutscene Designer',
+      name: 'Zeyad sabri ali',
+      role: 'Artist',
       photo: '/images/team/layan.svg',
       socialLinks: [
-        { platform: 'twitter' as const, url: 'https://x.com/laynology?s=21' },
+        { platform: 'twitter' as const, url: 'https://www.instagram.com/zeyadius?igsh=MTd0aHZkNGtkM2Ewcw==' },
       ],
     },
   ],

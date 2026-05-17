@@ -57,19 +57,19 @@ The world is built from soft pixel art and ambient sound, evoking feelings of vu
       ],
     },
     {
-      name: 'Samah Taha',
-      role: 'Game Designer',
+      name: 'Sami Mohamed Alzahrani',
+      role: 'game programmer',
       photo: '/images/profile-placeholder.png',
       socialLinks: [
         { platform: 'linkedin' as const, url: 'https://www.linkedin.com/in/samah-taha-184331198/' },
       ],
     },
     {
-      name: 'Layan Aljohani',
-      role: 'Audio Director, Cutscene Designer',
+      name: 'Zeyad sabri ali',
+      role: 'Artist',
       photo: '/images/profile-placeholder.png',
       socialLinks: [
-        { platform: 'twitter' as const, url: 'https://x.com/laynology?s=21' },
+        { platform: 'twitter' as const, url: 'https://www.instagram.com/zeyadius?igsh=MTd0aHZkNGtkM2Ewcw==' },
       ],
     },
   ],
